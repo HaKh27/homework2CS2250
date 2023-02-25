@@ -16,7 +16,7 @@ p{
     border-style: dashed;
     font-size: larger;
     text-align: center;
-    width: 700;
+    width: 700px;
     background-color: #6dc2ea;
 
 }
@@ -24,7 +24,7 @@ p{
 .facts{
     border-style: dotted;
     font-size: larger;
-    width: 600;
+    width: 600px;
     background-color: #db79dd;
 }
 
