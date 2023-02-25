@@ -137,11 +137,12 @@ details summary {
     margin-bottom: 0.5em;
 }
 
+
 #identity /* Requirement-2.D*/{
     background-color: skyblue;
     width: fit-content;
   }
 
-  H1 { color: rgb(250, 245, 239) }
-  EM { color: rgb(250, 245, 239) }
-  H1 EM { color: rgb(112, 165, 229) } /* Requirement-2.F*/
+H1 { color: rgb(250, 245, 239) }
+EM { color: rgb(250, 245, 239) }
+H1 EM { color: rgb(112, 165, 229) } /* Requirement-2.F*/
